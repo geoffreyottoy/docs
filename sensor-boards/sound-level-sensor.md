@@ -3,6 +3,7 @@ title: Microphone
 parent: Sensor Boards
 has_toc: true
 nav_order: 2
+layout: default
 ---
 
 

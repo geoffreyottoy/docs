@@ -2,12 +2,15 @@
 title: Sensor Boards
 has_toc: true
 has_children: true
+nav_order: 3
+layout: default
 ---
 
 
 The functionalities and possible configurations for each sensor is defined in the [descrption files](https://github.com/dramco-iwast/sensor-description-files).
 
 It is structured as:
+
 ```yaml
 name: "Sensor name"
 
