@@ -10,7 +10,7 @@ nav_order: 2
 This section will give an overview of the components of the microphone module.
 
 ### Microphone
-A Vesper VM1010 is chosen because it is a low power microphone with a good performance. The microphone consumes 85 µA in active mode. There is also a mode-pin to enable sleep-mode which reduces the current to approximately 5µA. To enable the sleep mode, one has to supply a low level voltage to the mode pin and vice versa. The sensitivity of the microphone equals -38 dBV while the frequency response curve is flat for the audible frequencies. 
+A Vesper VM1010 is chosen because it is a low power microphone with a good performance. The microphone consumes 87 µA in active mode (measured). There is also a mode-pin to enable sleep-mode which reduces the current to approximately 5µA. To enable the sleep mode, one has to supply a low level voltage to the mode pin and vice versa. The sensitivity of the microphone equals -38 dBV while the frequency response curve is flat for the audible frequencies. 
 
 
 ### High pass filter
