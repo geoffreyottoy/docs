@@ -1,3 +1,11 @@
+---
+title: Microphone
+parent: Sensor Boards
+has_toc: true
+nav_order: 2
+---
+
+
 ## Components of the microphone module
 This section will give an overview of the components of the microphone module.
 
