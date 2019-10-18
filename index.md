@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentation
+title: General
 nav_order: 1
 ---
 
@@ -9,8 +9,8 @@ An application, running locally on a computer, is used to configure the mother b
 
 ```
 Client App <--> Motherboard  <--> sensor
-                          <--> sensor
-                          <--> sensor
+                             <--> sensor
+                             <--> sensor
 ```
 
 
@@ -20,4 +20,5 @@ Client App <--> Motherboard  <--> sensor
 | Sensor | The sensor denotes the whole sensor board. |
 | Metric | Each sensor can measure different metrics, e.g. temperature and humidity. |
 | Motherboard | All sensors are connected to the motherboard. More info [here](motherboard/). |
-| Client App  | Configures the motherboard. |
+| Client App  | Configures the motherboard and sensors connected to it. |
+| Web App  | . |
